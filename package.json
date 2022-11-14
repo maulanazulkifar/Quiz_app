@@ -74,6 +74,7 @@
   },
   "description": "An Ionic project",
   "engines": {
-    "npm": "7.x"
+    "npm": "7.x",
+    "node": "12.x"
   }
 }
